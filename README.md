@@ -1,3 +1,3 @@
 # AOTDemo
 
-https://github.com/TangentWorks/AOTDemo.jl
+https://tangentworks.github.io/AOTDemo.jl
