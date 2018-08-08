@@ -21,7 +21,7 @@ var documenterSearchIndex = {"docs": [
     "page": "AOTDemo package",
     "title": "Installation",
     "category": "section",
-    "text": "julia> Pkg.clone(\"todo\")"
+    "text": "julia> Pkg.clone(\"https://github.com/tangentworks/AOTDemo.jl.git\")"
 },
 
 {

@@ -5,7 +5,7 @@ This package demonstrates how to build a shared library with C/C++ API from Juli
 ## Installation
 
 ```julia-repl
-julia> Pkg.clone("todo")
+julia> Pkg.clone("https://github.com/tangentworks/AOTDemo.jl.git")
 ```
 
 ## Usage
